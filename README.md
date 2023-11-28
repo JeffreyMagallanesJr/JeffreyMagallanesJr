@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **JeffreyMagallanesJr/JeffreyMagallanesJr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Hello there! 👋
+
+🔭 I’m currently working on a Calculator site for The Odin Project.
+🌱 I’m currently learning from The Odin Project and CS50.
+🏫 I'm currently taking BS in Information Systems in Carlos Hilado Memorial State University - Fortune Towne.
+⚡ Fun fact: I've beaten 5 adults in a simul in chess when I was in High School.
